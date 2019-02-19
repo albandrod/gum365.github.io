@@ -6,3 +6,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+---
+title: Welcome
+lang: en
+ref: homepage
+---
