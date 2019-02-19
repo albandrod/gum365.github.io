@@ -1,19 +1,6 @@
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: splash
-      author_profile: true
 ---
-title: Welcome
-lang: en
-ref: homepage
+layout: splash
 permalink: /
----
-
----
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
