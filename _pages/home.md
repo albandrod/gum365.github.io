@@ -11,7 +11,7 @@ excerpt: >
   Le Groupe des Usagers Microsoft 365 est une communauté axée sur le partage des connaissances et des usages des offres Microsoft 365 et Office 365 de Microsoft.<br />
   <small>Prochains rendez-vous</small>
 feature_row:
-  - image_path: "<i class="fas fa-comments"></i>"
+  - image_path: /assets/images/mm-responsive-feature.png
     alt: "Forums"
     title: "Forums de discussions"
     excerpt: "Forums texte."
