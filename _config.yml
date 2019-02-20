@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "fr-CA"
+locale                   : "en-US"
 title                    : "GUM365"
 title_separator          : "-"
 name                     : "Groupe des Usagers de Microsoft 365"
