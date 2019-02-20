@@ -20,21 +20,21 @@ foo:
 
 # main links
 main:
-  - title: "Home"
+  - title: "Accueil"
     url: /
-  - title: "Events"
+  - title: "Evènements"
     url: /events/events/
     children:
       - title: "MSCollabMTL 2019"
         url: /events/mscollabmtl19/
       - title: "M365Saturday 2019"
         url: /events/m365saturday19/
-  - title: "About"
-    url: /about/
   - title: "Documents"
     url: /collection-docs/
-  - title: "Sample Posts"
+  - title: "Sponsors"
     url: /year-archive/
+  - title: "A Propos"
+    url: /about/
 
 # documentation links
 docs:
