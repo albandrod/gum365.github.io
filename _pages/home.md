@@ -8,7 +8,7 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  Le Groupe des Usagers Microsoft 365 est une communauté axée sur le partage des connaissances et des usages de l'offre Microsoft 365 et Office 365 de Microsoft.<br />
+  Le Groupe des Usagers Microsoft 365 est une communauté axée sur le partage des connaissances et des usages des offres Microsoft 365 et Office 365 de Microsoft.<br />
   <small>Prochains rendez-vous</small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
