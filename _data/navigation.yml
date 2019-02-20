@@ -20,17 +20,21 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "Home"
+    url: /
+  - title: "Events"
+    url: /events/events/
+    children:
+      - title: "MSCollabMTL 2019"
+        url: /events/mscollabmtl19/
+      - title: "M365Saturday 2019"
+        url: /events/m365saturday19/
   - title: "About"
     url: /about/
+  - title: "Documents"
+    url: /collection-docs/
   - title: "Sample Posts"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
-
 
 # documentation links
 docs:
