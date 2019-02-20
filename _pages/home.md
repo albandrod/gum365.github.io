@@ -8,30 +8,30 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.15.2">Latest release v4.15.2</a></small>
+  Le Groupe des Usagers Microsoft 365 est une communauté axée sur le partage des connaissances et des usages de l'offre Microsoft 365 et Office 365 de Microsoft.<br />
+  <small>Prochains rendez-vous</small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "Forums"
+    title: "Forums de discussions"
+    excerpt: "Forums texte."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "Conférences"
+    title: "Conférences et évènements"
+    excerpt: "Conférence texte."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    alt: "Réseautage"
+    title: "Réseautage 100% gratuit"
+    excerpt: "Réseautage texte."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "En savoir plus"      
 ---
 
 {% include feature_row %}
