@@ -8,14 +8,14 @@ header:
   caption: "Photo credit: Groupe des Usagers SharePoint au Québec"
   actions:
     - label: "14 Mars 2019 - MSCollabMTL19"
-      url: "/_pages/mscollabmtl19/"
+      url: "/mscollabmtl19/"
 excerpt: >
   Le Groupe des Usagers Microsoft 365 est une communauté axée sur le partage des connaissances et des usages des offres Microsoft 365 et Office 365 de Microsoft.<br />
   <small>Prochains rendez-vous</small>
 feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Forums"
-    title: "<i class='fas fa-download'></i> Forums de discussions"
+    title: "<i class='fas fa-users'></i> Forums de discussions"
     excerpt: "Forums texte."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
