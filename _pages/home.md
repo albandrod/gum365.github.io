@@ -4,6 +4,8 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Entete.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: Groupe des Usagers SharePoint au Québec"
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
