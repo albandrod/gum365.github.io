@@ -5,6 +5,7 @@ categories:
 - events
 tags:
 - collabmtl
+position: 0
 ---
 
 Un événement fait sur mesure pour vous
