@@ -1,15 +1,4 @@
 ---
-layout: default
-title: "Évènements - MSCollabMTL 2019"
-date: 2019-02-24T12:00:00+00:00
-categories: events
-#permalink: "/events/mscollabmtl19.html"
-author_profile: false
-#sidebar:
-  title: "Sample Title"
-  nav: sidebar-event
-#aside:
-  toc: true
-  toc_sticky: true
 ---
+
 Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.

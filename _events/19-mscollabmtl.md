@@ -1,10 +1,10 @@
 ---
-title: "Quick-Start Guide"
+title: Quick-Start Guide
 permalink: "/events/mscollabmtl19.html"
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
-last_modified_at: 2019-02-25T12:00:00-05:00
+excerpt: How to quickly install and setup Minimal Mistakes for use with GitHub Pages.
+last_modified_at: 2019-02-25 17:00:00 Z
 redirect_from:
-  - /theme-setup/
+- "/theme-setup/"
 toc: true
 ---
 
