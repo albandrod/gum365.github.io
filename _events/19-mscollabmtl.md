@@ -1,5 +1,5 @@
 ---
-title: Quick-Start Guide
+title: MSCollabMTL 2019
 permalink: "/events/mscollabmtl19.html"
 position: 1
 excerpt: How to quickly install and setup Minimal Mistakes for use with GitHub Pages.
