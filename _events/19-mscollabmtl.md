@@ -12,7 +12,7 @@ last_modified_at: 2019-02-25 17:00:00 Z
 redirect_from:
 - "/theme-setup/"
 toc: true
-layout: posts
+layout: home
 ---
 
 # H1. Introduction
