@@ -1,6 +1,6 @@
 ---
+title: Accueil
 permalink: "/"
-layout: splash
 header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/Entete.jpg"
@@ -36,6 +36,7 @@ feature_row:
   url: "/docs/license/"
   btn_class: btn--primary
   btn_label: En savoir plus
+layout: splash
 ---
 
 {% include feature_row %}
