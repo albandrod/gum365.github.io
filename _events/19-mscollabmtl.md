@@ -1,12 +1,18 @@
 ---
 title: MSCollabMTL 2019
+date: 2019-02-24 21:51:00 Z
 permalink: "/events/mscollabmtl19.html"
+categories:
+- events
+tags:
+- collabmtl
 position: 1
 excerpt: How to quickly install and setup Minimal Mistakes for use with GitHub Pages.
 last_modified_at: 2019-02-25 17:00:00 Z
 redirect_from:
 - "/theme-setup/"
 toc: true
+layout: posts
 ---
 
 # H1. Introduction
