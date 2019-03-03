@@ -8,7 +8,7 @@ header:
   caption: 'Photo credit: Groupe des Usagers SharePoint au Québec'
   actions:
   - label: 14 Mars 2019 - MSCollabMTL19
-    url: "/mscollabmtl19/"
+    url: "/events/mscollabmtl19.html"
 excerpt: 'Le Groupe des Usagers Microsoft 365 est une communauté axée sur le partage
   des connaissances et des usages des offres Microsoft 365 et Office 365 de Microsoft.<br
   /> <small>Prochains rendez-vous</small>
