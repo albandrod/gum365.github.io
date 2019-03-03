@@ -12,6 +12,8 @@ last_modified_at: 2019-02-25 17:00:00 Z
 redirect_from:
 - "/theme-setup/"
 toc: true
+toc_icon: cog
+toc_label: '"My Table of Contents" '
 layout: posts
 ---
 
