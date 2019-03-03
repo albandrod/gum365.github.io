@@ -57,7 +57,11 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 
 # H1. Partenaires
 
-# H1. Orateurs
+# H1. Conférenciers
+
+| première case  | deuxième case  |
+|----------------|----------------|
+| troisième case | quatrième case |
 
 # H1. BYOP - Bring Your Own Problem
 
