@@ -15,7 +15,7 @@ redirect_from:
 toc: true
 toc_icon: cog
 toc_label: '"My Table of Contents" '
-layout: posts
+layout: single
 ---
 
 # H1. Introduction
