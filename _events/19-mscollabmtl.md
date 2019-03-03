@@ -14,7 +14,7 @@ redirect_from:
 - "/theme-setup/"
 toc: true
 toc_icon: cog
-toc_label: '"My Table of Contents" '
+toc_label: '"Menu" '
 layout: single
 ---
 
