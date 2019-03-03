@@ -23,8 +23,6 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 
 # H1. Agenda
 
-Agenda:
-
 * 8:30 à 9:00 - Accueil et déjeuner offert par nos partenaires
 
 
