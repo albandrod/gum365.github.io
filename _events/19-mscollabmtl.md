@@ -7,7 +7,8 @@ categories:
 tags:
 - collabmtl
 position: 1
-excerpt: How to quickly install and setup Minimal Mistakes for use with GitHub Pages.
+excerpt: 'Une journée complète de sessions techniques gratuites sur #Microsoft365
+  et #Office365 délivrée par des Experts et MVP Européens et Locaux.'
 last_modified_at: 2019-02-25 17:00:00 Z
 redirect_from:
 - "/theme-setup/"
