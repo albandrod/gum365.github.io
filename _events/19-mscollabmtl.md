@@ -11,7 +11,7 @@ excerpt: 'Une journée complète de sessions techniques gratuites sur #Microsoft
   et #Office365 délivrées par des Experts et MVP Européens et Locaux.'
 classes: wide
 sidebar:
-- nav: "#events"
+- nav: events
   title: Le 14 Mars 2019
   text: 'Une journée complète de sessions techniques gratuites sur #Microsoft365 et
     #Office365 délivrée par des Experts et MVP Européens et Locaux.'
@@ -21,7 +21,6 @@ read_time: true
 og_image: "/uploads/logo-mscollabmtl.jpg"
 header:
 - og_image: "/uploads/logo-mscollabmtl.jpg"
-nav: events
 layout: single
 ---
 
