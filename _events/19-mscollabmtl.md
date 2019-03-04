@@ -64,7 +64,7 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 
 # Inscription
 
-<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.ca/tickets-external?eid=56381657054&ref=etckt" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.ca/tickets-external?eid=56381657054&ref=etckt" frameborder="0" height="330" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 # Partenaires
 
