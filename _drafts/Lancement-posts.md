@@ -1,6 +1,6 @@
 ---
-title: Lancement Posts
-date: 2019-02-18 00:00:00 Z
+title: Lancement GUM365
+date: 2019-02-17 19:00:00 -05:00
 ---
 
 defaults:
