@@ -47,7 +47,7 @@ Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de 
 
 # Partenaires
 Une telle journée ne pourrait avoir lieu sans la participation de nos partenaires.
-Si vous souhaitez devenir partenaire, p 
+
 # Conférenciers
 
 ## Michel LAPLANE- MVP Visio
