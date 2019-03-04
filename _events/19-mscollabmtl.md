@@ -18,7 +18,7 @@ sidebar:
   image: "/uploads/logo-mscollabmtl.jpg"
 share: true
 read_time: true
-og_image: "/uploads/logo-mscollabmtl.jpg"
+image: "/uploads/logo-mscollabmtl.jpg"
 header:
 - og_image: "/uploads/logo-mscollabmtl.jpg"
 layout: single
