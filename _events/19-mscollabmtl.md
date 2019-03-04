@@ -18,6 +18,8 @@ toc_label: Menu
 classes: wide
 header:
 - overlay_color: "#333"
+sidebar:
+- nav: events
 layout: single
 ---
 
