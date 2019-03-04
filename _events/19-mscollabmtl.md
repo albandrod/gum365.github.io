@@ -21,6 +21,7 @@ read_time: true
 og_image: "/uploads/logo-mscollabmtl.jpg"
 header:
 - og_image: "/uploads/logo-mscollabmtl.jpg"
+nav: events
 layout: single
 ---
 
