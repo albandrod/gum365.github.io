@@ -62,7 +62,7 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 
 <div>
 \
-     <iframe width="600" height="400" frameborder="0" src="https://www.bing.com/maps/embed?h=400&w=600&cp=45.51558989547186\~-73.56224594971467&lvl=17&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+     <iframe width="100%" height="400" frameborder="0" src="https://www.bing.com/maps/embed?h=400&w=600&cp=45.51558989547186\~-73.56224594971467&lvl=17&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
 \
      </iframe>
 \
