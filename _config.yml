@@ -9,6 +9,7 @@ collections:
   partenaires:
     title: Partenaires
     output: true
+    permalink: "/partenaires"
   posts:
     title: Posts
     output: true
