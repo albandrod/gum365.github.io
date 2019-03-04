@@ -18,13 +18,15 @@ sidebar:
   image: "/uploads/logo-mscollabmtl.jpg"
 share: true
 read_time: true
-image: "/uploads/logo-mscollabmtl.jpg"
 header:
-- og_image: "/uploads/logo-mscollabmtl.jpg"
+- teaser: "/uploads/logo-mscollabmtl.jpg"
+  og_image: "/uploads/logo-mscollabmtl.jpg"
 layout: single
 ---
 
 # Introduction
+
+Lien
 
 Pour sa 3ième édition, ce rendez-vous est maintenant un classique.
 Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de la visite de quelques uns des meilleurs experts et MVP Européens et Canadiens pour organiser cette journée de sessions techniques.
