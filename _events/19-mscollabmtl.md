@@ -7,18 +7,12 @@ categories:
 tags:
 - collabmtl
 position: 1
-excerpt: 'Une journée complète de sessions techniques gratuites sur #Microsoft365
-  et #Office365 délivrées par des Experts et MVP Européens et Locaux.'
-last_modified_at: 2019-02-25 12:00:00 -05:00
-redirect_from:
-- "/theme-setup/"
-toc: false
-toc_icon: cog
-toc_label: Menu
-classes: wide
 header:
 - teaser: "/uploads/logo-mscollabmtl.jpg"
   og_image: "/uploads/logo-mscollabmtl.jpg"
+excerpt: 'Une journée complète de sessions techniques gratuites sur #Microsoft365
+  et #Office365 délivrées par des Experts et MVP Européens et Locaux.'
+classes: wide
 sidebar:
 - nav: "#events"
   title: Le 14 Mars 2019
