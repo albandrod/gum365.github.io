@@ -22,7 +22,7 @@ layout: single
 
 Pour sa 3ième édition, ce rendez-vous est maintenant un classique.
 Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de la visite de quelques uns des meilleurs experts et MVP Européens et Canadiens pour organiser cette journée de sessions techniques.
-La journée est organisée selon 2 préoccupations majeures: La connaissance technique et la Gestion des environnements #Microsoft365 et #Office365.
+> La journée est organisée selon 2 préoccupations majeures: La connaissance technique et la Gestion des environnements #Microsoft365 et #Office365 et particulièrement #MicrosoftTeams.
 
 # Agenda
 
