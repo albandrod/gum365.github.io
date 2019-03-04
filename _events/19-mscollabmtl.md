@@ -58,7 +58,9 @@ Une telle journée ne pourrait avoir lieu sans la participation de nos partenair
 image:
 
 ## Guillaume MEYER- MVP Office 365
-![Guillaume MEYER](https://media.licdn.com/dms/image/C5603AQGs2B81IutD9w/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=QRemqpxCKZ82CRVAFbClMrgnwyfSzp6pgSRnYF16IVw)
+
+![Guillaume MEYER](https://media.licdn.com/dms/image/C5603AQGs2B81IutD9w/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=QRemqpxCKZ82CRVAFbClMrgnwyfSzp6pgSRnYF16IVw){:height="150px" width="150px"}
+
 Entrepreneur, constant learner, passionate about the role that communication and collaboration can play in improving the productivity and effectiveness of people in the workplace.
 Dedicated leader with a record of product management and business development, leveraging a rich mix of operational and marketing expertise in both SMEs and large enterprises.
 Builds business models and teams based on sound strategy and vision, boosting motivation and customer satisfaction.
