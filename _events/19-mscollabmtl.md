@@ -15,6 +15,7 @@ redirect_from:
 toc: true
 toc_icon: cog
 toc_label: '"Menu" '
+classes: wide
 layout: single
 ---
 
