@@ -20,9 +20,7 @@ share: true
 read_time: true
 og_image: "/uploads/logo-mscollabmtl.jpg"
 header:
-  header:
-    og_image: "/uploads/logo-mscollabmtl.jpg"
-    teaser: "/uploads/logo-mscollabmtl.jpg"
+- og_image: "/uploads/logo-mscollabmtl.jpg"
 layout: single
 ---
 
