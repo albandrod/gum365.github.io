@@ -21,8 +21,8 @@ header:
 sidebar:
 - nav: events
   title: Another Title
-  image: http://placehold.it/350x250
   text: Some text here.
+  image: http://placehold.it/350x250
 layout: single
 ---
 
