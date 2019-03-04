@@ -1,6 +1,7 @@
 ---
 title: Événements
 date: 2019-03-04 14:20:00 Z
+permalink: "/events/"
 collection: events
 entries_layout: list
 show_excerpts: true
