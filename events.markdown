@@ -10,4 +10,5 @@ sort_order: forward
 layout: collection
 ---
 
-Introduction aux événements
+Retrouvez ici nos prochains événements.
+Qu'ils soient mensuels ou occasionnels, ils sont toujours gratuits grâce aux soutient de nos partenaires.
