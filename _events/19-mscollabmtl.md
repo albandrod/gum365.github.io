@@ -25,7 +25,6 @@ Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de 
 > La journée est organisée selon 2 préoccupations majeures: La connaissance technique et la Gestion des environnements #Microsoft365 et #Office365 et particulièrement #MicrosoftTeams.
 
 # Agenda
-
 | Horaire  | Salle 450  | Salle 460 |
 |:----------------:|:----------------:|:----------------:|
 | 8:30 à 9:00 | Accueil et déjeuner offert par nos partenaires |
@@ -38,18 +37,15 @@ Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de 
 | 16:00 à 16:15 | Session de clôture |
 
 # Lieu
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1770.5529322020568!2d-73.56280033819519!3d45.515406237448225!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91bb33b2f88f9%3A0xc74e1f9c890593ed!2sBAnQ\+Grande\+Biblioth%C3%A8que!5e0!3m2!1sfr!2sca!4v1551705995950" width="700" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Inscription
-
 <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.ca/tickets-external?eid=56381657054&ref=etckt" frameborder="0" height="330" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 # Partenaires
 Une telle journée ne pourrait avoir lieu sans la participation de nos partenaires.
 
 # Conférenciers
-
 ## Michel LAPLANE- MVP Visio
 image:
 ## Guillaume MEYER- MVP Office 365
