@@ -18,6 +18,7 @@ main:
 events:
   - title: Introduction
     url: /Introduction
+    image: http://placehold.it/350x250
   - title: Agenda
     url: #Agenda
   - title: Content
