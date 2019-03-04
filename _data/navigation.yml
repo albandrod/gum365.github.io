@@ -17,8 +17,8 @@ main:
 # Event links
 events:
   - title: Introduction
-    url: {{ site.url }}{{ page.url }}"#Introduction"
+    url: /events/mscollabmtl19.html#Introduction
   - title: Agenda
-    url: {{ site.url }}{{ page.url }}"#Agenda"
+    url: /events/mscollabmtl19.html#Agenda
   - title: Partenaires
-    url: {{ site.url }}{{ page.url }}"#Partenaires"  
+    url: /events/mscollabmtl19.html#Partenaires  
