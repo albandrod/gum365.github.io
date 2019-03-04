@@ -27,7 +27,7 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 # Agenda
 
 | Horaire  | Salle 450  | Salle 460 |
-|----------------|----------------|----------------|
+|:----------------:|----------------|----------------|
 | 8:30 à 9:00 | quatrième case |
 
 |----------------|----------------|----------------|
