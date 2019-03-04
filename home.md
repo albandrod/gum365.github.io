@@ -34,7 +34,7 @@ feature_row:
   btn_label: Learn more
 - image_path: 
   alt: Réseautage
-  title: <i class="fas fa-chart-network"></i><br />Réseautage 100% gratuit
+  title: <i class="fas fa-street-view"></i><br />Réseautage 100% gratuit
   excerpt: Nous souhaitons que ce groupe d'usagers soit un accélérateur de réseau
     pour vous et vos activités.
   url: 
