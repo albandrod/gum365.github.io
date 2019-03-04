@@ -22,7 +22,7 @@ sidebar:
 - nav: events
   title: Another Title
   text: Some text here.
-  image: http://placehold.it/350x250
+  image: "/uploads/logo-mscollabmtl.jpg"
 layout: single
 ---
 
