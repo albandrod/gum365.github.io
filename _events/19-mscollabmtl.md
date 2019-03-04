@@ -8,7 +8,7 @@ tags:
 - collabmtl
 position: 1
 excerpt: 'Une journée complète de sessions techniques gratuites sur #Microsoft365
-  et #Office365 délivrée par des Experts et MVP Européens et Locaux.'
+  et #Office365 délivrées par des Experts et MVP Européens et Locaux.'
 last_modified_at: 2019-02-25 12:00:00 -05:00
 redirect_from:
 - "/theme-setup/"
