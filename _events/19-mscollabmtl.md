@@ -7,9 +7,6 @@ categories:
 tags:
 - collabmtl
 position: 1
-header:
-- teaser: "/uploads/logo-mscollabmtl.jpg"
-  og_image: "/uploads/logo-mscollabmtl.jpg"
 excerpt: 'Une journée complète de sessions techniques gratuites sur #Microsoft365
   et #Office365 délivrées par des Experts et MVP Européens et Locaux.'
 classes: wide
@@ -22,6 +19,10 @@ sidebar:
 share: true
 read_time: true
 og_image: "/uploads/logo-mscollabmtl.jpg"
+header:
+  header:
+    og_image: "/uploads/logo-mscollabmtl.jpg"
+    teaser: "/uploads/logo-mscollabmtl.jpg"
 layout: single
 ---
 
