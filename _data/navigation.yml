@@ -17,8 +17,8 @@ main:
 # Event links
 events:
   - title: Introduction
-    url: {{ site.url }}{{ page.url }}#Introduction
+    url: "{{ site.url }}{{ page.url }}#Introduction"
   - title: Agenda
-    url: {{ site.url }}{{ page.url }}#Agenda
+    url: "{{ site.url }}{{ page.url }}#Agenda"
   - title: Partenaires
-    url: {{ site.url }}{{ page.url }}#Partenaires  
+    url: "{{ site.url }}{{ page.url }}#Partenaires"  
