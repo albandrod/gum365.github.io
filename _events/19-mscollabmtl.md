@@ -17,8 +17,7 @@ toc_icon: cog
 toc_label: Menu
 classes: wide
 header:
-- overlay_color: "#333"
-  teaser: "/uploads/logo-mscollabmtl.jpg"
+- teaser: "/uploads/logo-mscollabmtl.jpg"
   og_image: "/uploads/logo-mscollabmtl.jpg"
 sidebar:
 - nav: "#events"
