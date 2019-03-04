@@ -7,10 +7,10 @@ main:
     children:
       - title: "MSCollabMTL 2019"
         url: /events/mscollabmtl19.html
-  - title: "Articles"
-    url: /articles/
-  - title: "Partenaires"
-    url: /partenaires/
+#  - title: "Articles"
+#    url: /articles/
+#  - title: "Partenaires"
+#    url: /partenaires/
   - title: "A Propos"
     url: /about/
 
@@ -18,7 +18,6 @@ main:
 events:
   - title: Introduction
     url: /Introduction
-    image: http://placehold.it/350x250
   - title: Agenda
     url: #Agenda
   - title: Content
