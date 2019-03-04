@@ -32,7 +32,7 @@ defaults:
     related: true
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
-locale: fr-CA
+locale: fr-FR
 title_separator: "-"
 name: Groupe des Usagers de Microsoft 365
 description: Le Groupe des Usagers Microsoft 365 est une communauté axée sur le partage
