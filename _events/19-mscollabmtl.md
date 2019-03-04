@@ -20,8 +20,9 @@ header:
 - overlay_color: "#333"
 sidebar:
 - nav: events
-  title: Another Title
-  text: Some text here.
+  title: Le 14 Mars 2019
+  text: 'Une journée complète de sessions techniques gratuites sur #Microsoft365 et
+    #Office365 délivrée par des Experts et MVP Européens et Locaux.'
   image: "/uploads/logo-mscollabmtl.jpg"
 layout: single
 ---
