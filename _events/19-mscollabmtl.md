@@ -20,11 +20,14 @@ layout: single
 ---
 
 # Introduction
+
 Pour sa 3ième édition, ce rendez-vous est maintenant un classique.
 Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de la visite de quelques uns des meilleurs experts et MVP Européens et Canadiens pour organiser cette journée de sessions techniques.
+
 > La journée est organisée selon 2 préoccupations majeures: La connaissance technique et la Gestion des environnements #Microsoft365 et #Office365 et particulièrement #MicrosoftTeams.
 
 # Agenda
+
 | Horaire  | Salle 450  | Salle 460 |
 |:----------------:|:----------------:|:----------------:|
 | 8:30 à 9:00 | Accueil et déjeuner offert par nos partenaires |
@@ -37,27 +40,40 @@ Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de 
 | 16:00 à 16:15 | Session de clôture |
 
 # Lieu
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1770.5529322020568!2d-73.56280033819519!3d45.515406237448225!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91bb33b2f88f9%3A0xc74e1f9c890593ed!2sBAnQ\+Grande\+Biblioth%C3%A8que!5e0!3m2!1sfr!2sca!4v1551705995950" width="700" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Inscription
+
 <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.ca/tickets-external?eid=56381657054&ref=etckt" frameborder="0" height="330" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 # Partenaires
+
 Une telle journée ne pourrait avoir lieu sans la participation de nos partenaires.
 
 # Conférenciers
+
 ## Michel LAPLANE- MVP Visio
+
 image:
+
 ## Guillaume MEYER- MVP Office 365
-  image: https://media.licdn.com/dms/image/C5603AQGs2B81IutD9w/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=QRemqpxCKZ82CRVAFbClMrgnwyfSzp6pgSRnYF16IVw
-  caption: "Crédit photo: [**LinkedIn**](https://www.linkedin.com/in/guillaumemeyer/)"
+
+!\[My helpful screenshot\](https://media.licdn.com/dms/image/C5603AQGs2B81IutD9w/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=QRemqpxCKZ82CRVAFbClMrgnwyfSzp6pgSRnYF16IVw)
+caption: "Crédit photo: **[LinkedIn](https://www.linkedin.com/in/guillaumemeyer/)**"
+
 ## Etienne BAILLY - MVP Office Server and Services
+
 ## Joris FAURE - MVP Identity and Security
+
 ## Serge TREMBLAY - MVP Office Server and Services
+
 ## Franck MERCIER - TSP Microsoft Canada
+
 ## Nicolas GEORGEAULT - MVP Office Server and Services
 
 # BYOP - Bring Your Own Problem
+
 Pour la première fois nous vous proposons de participer à ce type de session au cours de laquelle nos conférenciers ne feront pas que répondre à de simples questions mais de vous livrer une réflexion commune à un problème que vous pourriez rencontrer dans le cadre de la mise en place de votre environnement Office 365 et plus largement les solutions collaboratives de Microsoft.
 Nous souhaitons apporter des pistes de solutions concrètes à des problématiques vous rencontrez. Une sorte de consultation gratuite.
 Pour des soucis d'organisation, nous garderons un œil sur l'horloge en limitant un sujet à 30 minutes en fonction de l'étendu de la question.
