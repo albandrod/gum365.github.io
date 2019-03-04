@@ -15,25 +15,28 @@ excerpt: 'Le Groupe des Usagers Microsoft 365 est une communauté axée sur le p
 
 '
 feature_row:
-- image_path: "/assets/images/mm-responsive-feature.png"
+- image_path: 
   alt: Forums
-  title: "<i class='fas fa-users'></i> <br />Forums de discussions"
-  excerpt: Forums texte.
-  url: "/docs/configuration/"
+  title: "<i class='fas fa-users'></i> <br />Forums et documentation communautaire"
+  excerpt: Lieu d'échanges de connaissance par essence, chacun à son mot à dire et
+    ses questions à poser.
+  url: 
   btn_class: btn--primary
   btn_label: Learn more
-- image_path: "/assets/images/mm-responsive-feature.png"
+- image_path: 
   alt: Conférences
-  title: Conférences et évènements
-  excerpt: Conférence texte.
+  title: <i class="fas fa-comment-alt"></i><br />Conférences et évènements
+  excerpt: Participez à nos rencontres régulières tous les mois et celles plus occasionnelles
+    comme le <b>Microsoft 365 Saturday</b>
   url: "/events/"
   btn_class: btn--primary
   btn_label: Learn more
-- image_path: "/assets/images/mm-free-feature.png"
+- image_path: 
   alt: Réseautage
-  title: Réseautage 100% gratuit
-  excerpt: Réseautage texte.
-  url: "/docs/license/"
+  title: <i class="fas fa-chart-network"></i><br />Réseautage 100% gratuit
+  excerpt: Nous souhaitons que ce groupe d'usagers soit un accélérateur de réseau
+    pour vous et vos activités.
+  url: 
   btn_class: btn--primary
   btn_label: En savoir plus
 layout: splash
