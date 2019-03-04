@@ -31,38 +31,11 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 | 8:30 à 9:00 | Accueil et déjeuner offert par nos partenaires |
 | 9:00 à 9:30 | Session d’ouverture - Serge Tremblay/Nicolas Georgeault |
 | 9:45 à 10:45 | Microsoft Visio dans l’écosystème Microsoft avec Flow et Power BI - Michel LAPLANE- MVP Visio | Comment réussir sa gouvernance dans Office 365 - Joris FAURE - MVP Identity and Security |
-
-* 8:30 à 9:00 - Accueil et déjeuner offert par nos partenaires
-
-
-* 9:00 à 9:30 - Session d’ouverture - Serge Tremblay/Nicolas Georgeault
-
-
-* 9:45 à 10:45 - Salle 1 - Microsoft Visio dans l’écosystème Microsoft avec Flow et Power BI - Michel LAPLANE- MVP Visio
-
-
-* Salle 2 - Comment réussir sa gouvernance dans Office 365 - Joris FAURE - MVP Identity and Security
-
-
-* 11:00 à 12:00 - Salle 1 - Développer des Apps "Production-Ready" pour Microsoft Teams - Guillaume MEYER- MVP Office 365
-
-
-* Salle 2 - Pourquoi la gouvernance? Puisque c'est du libre service! - Serge TREMBLAY - MVP Office Server and Services
-
-
-* 12:00 à 13:00 - Lunch offert par nos partenaires - Réseautage
-
-
-* 13:00 à 14:00 - Salle 1 - Et si on codait un peu autour de Microsoft Teams - Etienne BAILLY - MVP Office Server and Services
-
-
-* Salle 2 - Mettre en place une gouvernance pour la Power Platform, Power BI, Power Apps et Microsoft Flow - Franck MERCIER - TSP Microsoft Canada et Nicolas GEORGEAULT - MVP Office Server and Services
-
-
-* 14:15 à 15:45 - Session Bring Your Own Problem (BYOP) / Ask The Experts - [Posez vos questions ou problèmes que vous souhaiteriez voir traité.](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAROrRgdUM1g5SzVPWE1ONlVVQVBXVUYxUkIwVTM2TS4u)
-
-
-* 16:00 - Session de clôture
+| 11:00 à 12:00 | Développer des Apps "Production-Ready" pour Microsoft Teams - Guillaume MEYER- MVP Office 365 | Pourquoi la gouvernance? Puisque c'est du libre service! - Serge TREMBLAY - MVP Office Server and Services |
+| 12:00 à 13:00 | Lunch offert par nos partenaires - Réseautage |
+| 13:00 à 14:00 | Et si on codait un peu autour de Microsoft Teams - Etienne BAILLY - MVP Office Server and Services | Mettre en place une gouvernance pour la Power Platform, Power BI, Power Apps et Microsoft Flow - Franck MERCIER - TSP Microsoft Canada et Nicolas GEORGEAULT - MVP Office Server and Services |
+| 14:15 à 15:45 | Session Bring Your Own Problem (BYOP) / Ask The Experts - [Posez vos questions ou problèmes que vous souhaiteriez voir traité.](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAROrRgdUM1g5SzVPWE1ONlVVQVBXVUYxUkIwVTM2TS4u) |
+| 16:00 à 16:15 | Session de clôture |
 
 # Lieu
 
