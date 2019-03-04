@@ -17,8 +17,10 @@ main:
 # Event links
 events:
   - title: Introduction
-    url: /events/mscollabmtl19.html#Introduction
+    url: /events/mscollabmtl19.html#introduction
   - title: Agenda
-    url: /events/mscollabmtl19.html#Agenda
+    url: /events/mscollabmtl19.html#agenda
   - title: Partenaires
-    url: /events/mscollabmtl19.html#Partenaires  
+    url: /events/mscollabmtl19.html#partenaires  
+  - title: Conférenciers
+    url: /events/mscollabmtl19.html#conférenciers  
