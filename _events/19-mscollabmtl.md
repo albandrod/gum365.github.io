@@ -98,6 +98,9 @@ His vision of the future and his qualities as speakers regularly brings him to s
 # BYOP - Bring Your Own Problem
 
 Pour la première fois nous vous proposons de participer à ce type de session au cours de laquelle nos conférenciers ne feront pas que répondre à de simples questions mais de vous livrer une réflexion commune à un problème que vous pourriez rencontrer dans le cadre de la mise en place de votre environnement Office 365 et plus largement les solutions collaboratives de Microsoft.
+
 Nous souhaitons apporter des pistes de solutions concrètes à des problématiques vous rencontrez. Une sorte de consultation gratuite.
+
 Pour des soucis d'organisation, nous garderons un œil sur l'horloge en limitant un sujet à 30 minutes en fonction de l'étendu de la question.
+
 Le but étant de vous aider en proposant une approche multiple. Celles de nos conférenciers.
