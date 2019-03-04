@@ -1,5 +1,6 @@
 ---
 title: Accueil
+date: 2019-03-04 17:36:00 -05:00
 permalink: "/"
 header:
   overlay_color: "#5e616c"
