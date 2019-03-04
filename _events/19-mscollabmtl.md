@@ -18,8 +18,8 @@ toc_label: Menu
 classes: wide
 header:
 - overlay_color: "#333"
-  og_image: "/uploads/logo-mscollabmtl.jpg"
   teaser: "/uploads/logo-mscollabmtl.jpg"
+  og_image: "/uploads/logo-mscollabmtl.jpg"
 sidebar:
 - nav: "#events"
   title: Le 14 Mars 2019
