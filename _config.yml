@@ -2,16 +2,16 @@
 title: GUM365
 timezone: UTC
 collections:
+  events:
+    title: Events
+    output: true
+    permalink: "/events/"
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  events:
-    title: events
-    output: true
-    permalink: "/events/"
 defaults:
 - scope:
     path: ''
