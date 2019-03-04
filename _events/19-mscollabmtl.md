@@ -51,7 +51,9 @@ Si vous souhaitez devenir partenaire, p
 # Conférenciers
 
 ## Michel LAPLANE- MVP Visio
+image:
 ## Guillaume MEYER- MVP Office 365
+image:
 ## Etienne BAILLY - MVP Office Server and Services
 ## Joris FAURE - MVP Identity and Security
 ## Serge TREMBLAY - MVP Office Server and Services
