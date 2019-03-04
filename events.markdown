@@ -6,6 +6,7 @@ entries_layout: list
 show_excerpts: true
 sort_by: date
 sort_order: forward
+layout: collection
 ---
 
 Introduction aux événements
