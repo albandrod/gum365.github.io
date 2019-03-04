@@ -17,7 +17,7 @@ excerpt: 'Le Groupe des Usagers Microsoft 365 est une communauté axée sur le p
 feature_row:
 - image_path: "/assets/images/mm-responsive-feature.png"
   alt: Forums
-  title: "<i class='fas fa-users'></i> Forums de discussions"
+  title: "<i class='fas fa-users'></i> <br />Forums de discussions"
   excerpt: Forums texte.
   url: "/docs/configuration/"
   btn_class: btn--primary
@@ -26,7 +26,7 @@ feature_row:
   alt: Conférences
   title: Conférences et évènements
   excerpt: Conférence texte.
-  url: "/docs/layouts/"
+  url: "/events/"
   btn_class: btn--primary
   btn_label: Learn more
 - image_path: "/assets/images/mm-free-feature.png"
