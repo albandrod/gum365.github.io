@@ -2,6 +2,7 @@
 title: A propos
 date: 2019-03-04 14:19:00 -05:00
 permalink: "/about/"
+classes: wide
 layout: single
 ---
 
