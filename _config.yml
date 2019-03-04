@@ -6,6 +6,9 @@ collections:
     title: Events
     output: true
     permalink: "/events/"
+  partenaires:
+    title: Partenaires
+    output: true
   posts:
     title: Posts
     output: true
