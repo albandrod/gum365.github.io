@@ -30,7 +30,6 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 |:----------------:|----------------|----------------|
 | 8:30 à 9:00 | quatrième case |
 
-|----------------|----------------|----------------|
 | 9:00 à 9:30 | quatrième case |
 
 | 9:45 à 10:45 | Salle 1 - Microsoft Visio dans l’écosystème Microsoft avec Flow et Power BI - Michel LAPLANE- MVP Visio | Salle 2 - Comment réussir sa gouvernance dans Office 365 - Joris FAURE - MVP Identity and Security |
