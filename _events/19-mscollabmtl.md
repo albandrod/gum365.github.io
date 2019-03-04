@@ -19,7 +19,7 @@ classes: wide
 header:
 - overlay_color: "#333"
 sidebar:
-- nav: events
+- nav: "#events"
   title: Le 14 Mars 2019
   text: 'Une journée complète de sessions techniques gratuites sur #Microsoft365 et
     #Office365 délivrée par des Experts et MVP Européens et Locaux.'
