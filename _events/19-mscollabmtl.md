@@ -20,6 +20,7 @@ header:
 - overlay_color: "#333"
 sidebar:
 - nav: events
+  title: Another Title
 layout: single
 ---
 
