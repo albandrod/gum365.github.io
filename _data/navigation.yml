@@ -23,22 +23,20 @@ main:
   - title: "Accueil"
     url: /
   - title: "Evènements"
-    url: /events/events/
+    url: /events/
     children:
       - title: "MSCollabMTL 2019"
-        url: /events/mscollabmtl19/
-      - title: "M365Saturday 2019"
-        url: /events/m365saturday19/
-  - title: "Documents"
-    url: /collection-docs/
-  - title: "Sponsors"
-    url: /year-archive/
+        url: /events/mscollabmtl19.html
+  - title: "Articles"
+    url: /articles/
+  - title: "Partenaires"
+    url: /partenaires/
   - title: "A Propos"
     url: /about/
 
 # documentation links
-docs:
-  - title: Getting Started
+events:
+  - title: Introduction
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
@@ -48,7 +46,7 @@ docs:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
-  - title: Customization
+  - title: Agenda
     children:
       - title: "Configuration"
         url: /docs/configuration/
