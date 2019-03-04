@@ -25,7 +25,7 @@ defaults:
     related: true
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
-locale: en-US
+locale: fr-CA
 title_separator: "-"
 name: Groupe des Usagers de Microsoft 365
 description: Le Groupe des Usagers Microsoft 365 est une communauté axée sur le partage
@@ -35,7 +35,7 @@ url: https://gum365.github.io
 baseurl: 
 repository: 
 teaser: 
-logo: 
+logo: "/uploads/Logo2.png"
 masthead_title: 
 breadcrumbs: true
 words_per_minute: 200
@@ -108,8 +108,14 @@ analytics:
 author:
   name: Nicolas Georgeault
   avatar: 
-  bio: I am an amazing person.
-  location: Montreal
+  bio: Le Groupe des Usagers Microsoft 365, @GUM365, se veut une communauté axée sur
+    le partage des connaissances sur l'offre "Microsoft 365" et "Office 365" de Microsoft.
+    Le groupe est ouvert à chaque niveau d'expérience, depuis ceux qui sont juste
+    utilisateurs jusqu'aux administrateurs sans oublier les consultants et autres
+    professionnels de l'informatique rassemblés autour des MVP (Microsoft Valuable
+    Professional) et MSP (Microsoft Student Partner) qui apporterons leurs visions
+    et leurs connaissances de chacun de leur produits.
+  location: Montréal
   email: gum365@outlook.com
   links:
   - label: Email
@@ -122,10 +128,13 @@ author:
     url: https://twitter.com/gum365
   - label: Facebook
     icon: fab fa-fw fa-facebook-square
+    url: https://www.facebook.com/gum365
   - label: GitHub
     icon: fab fa-fw fa-github
+    url: https://github.com/gum365/
   - label: Instagram
     icon: fab fa-fw fa-instagram
+    url: https://www.instagram.com/gum365mtl/
 footer:
   links:
   - label: Twitter
@@ -136,12 +145,10 @@ footer:
     url: https://www.facebook.com/gum365
   - label: GitHub
     icon: fab fa-fw fa-github
-  - label: GitLab
-    icon: fab fa-fw fa-gitlab
-  - label: Bitbucket
-    icon: fab fa-fw fa-bitbucket
+    url: https://github.com/gum365/
   - label: Instagram
     icon: fab fa-fw fa-instagram
+    url: https://www.instagram.com/gum365mtl/
 include:
 - ".htaccess"
 - _pages
