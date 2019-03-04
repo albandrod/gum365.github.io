@@ -18,13 +18,13 @@ toc_label: '"Menu" '
 layout: single
 ---
 
-# H1. Introduction
+# Introduction
 
 Pour sa 3ième édition, ce rendez-vous est maintenant un classique.
 Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de la visite de quelques uns des meilleurs experts et MVP Européens et Canadiens pour organiser cette journée de sessions techniques.
 La journée est organisée selon 2 préoccupations majeures: La connaissance technique et la Gestion des environnements #Microsoft365 et #Office365.
 
-# H1. Agenda
+# Agenda
 
 * 8:30 à 9:00 - Accueil et déjeuner offert par nos partenaires
 
@@ -58,18 +58,18 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 
 * 16:00 - Session de clôture
 
-# H1. Lieu
+# Lieu
 
-# H1. Inscription
+# Inscription
 
 <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.ca/tickets-external?eid=56381657054&ref=etckt" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
-# H1. Partenaires
+# Partenaires
 
-# H1. Conférenciers
+# Conférenciers
 
 | première case  | deuxième case  |
 |----------------|----------------|
 | troisième case | quatrième case |
 
-# H1. BYOP - Bring Your Own Problem
+# BYOP - Bring Your Own Problem
