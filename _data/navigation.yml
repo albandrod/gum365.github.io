@@ -17,9 +17,9 @@ main:
 # Event links
 events:
   - title: Introduction
-    url: /Introduction
+    url: /#Introduction
   - title: Agenda
-    url: #Agenda
+    url: /#Agenda
   - title: Content
     children:
       - title: "Working with Posts"
