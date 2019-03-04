@@ -60,6 +60,22 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 
 # Lieu
 
+<div>
+\
+     <iframe width="600" height="400" frameborder="0" src="https://www.bing.com/maps/embed?h=400&w=600&cp=45.51558989547186\~-73.56224594971467&lvl=17&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+\
+     </iframe>
+\
+     <div style="white-space: nowrap; text-align: center; width: 600px; padding: 6px 0;">
+\
+        <a id="largeMapLink" target="_blank" href="https://www.bing.com/maps?cp=45.51558989547186\~-73.56224594971467&amp;sty=r&amp;lvl=17&amp;FORM=MBEDLD">Afficher une carte plus grande</a> &nbsp; | &nbsp;
+\
+        <a id="dirMapLink" target="_blank" href="https://www.bing.com/maps/directions?cp=45.51558989547186\~-73.56224594971467&amp;sty=r&amp;lvl=17&amp;rtp=\~pos.45.51558989547186_-73.56224594971467____&amp;FORM=MBEDLD">Calculer l’itinéraire</a>
+\
+    </div>
+\
+</div>
+
 # Inscription
 
 <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.ca/tickets-external?eid=56381657054&ref=etckt" frameborder="0" height="320" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
