@@ -53,11 +53,11 @@ Une telle journée ne pourrait avoir lieu sans la participation de nos partenair
 
 # Conférenciers
 
-## Michel LAPLANE- MVP Visio
+## Michel LAPLANE - MVP Visio
 
-image:
+![Michel LAPLANE](https://media.licdn.com/dms/image/C4D03AQF40VjXLA_VeQ/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=chOyLsQoE3qxiULXQR0X7i686x4W6BitZsEv_nRd_cA){:height="150px" width="150px"}
 
-## Guillaume MEYER- MVP Office 365
+## Guillaume MEYER - MVP Office 365
 
 ![Guillaume MEYER](https://media.licdn.com/dms/image/C5603AQGs2B81IutD9w/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=QRemqpxCKZ82CRVAFbClMrgnwyfSzp6pgSRnYF16IVw){:height="150px" width="150px"}
 
@@ -67,13 +67,33 @@ Builds business models and teams based on sound strategy and vision, boosting mo
 
 ## Etienne BAILLY - MVP Office Server and Services
 
+![Etienne BAILLY](https://media.licdn.com/dms/image/C5603AQEuewgyNJ4Epg/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=Md3OlpxoS1ZNN353WTidU9Bu3tbegW2gfVdsa1rVXxU){:height="150px" width="150px"}
+
 ## Joris FAURE - MVP Identity and Security
+
+![Joris FAURE](https://media.licdn.com/dms/image/C4E03AQF6YB3RgBfp5w/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=5nF_Srcswe0cSb4C7MDprYQ_svPocafCCKFyydRh0Jw){:height="150px" width="150px"}
+
+Director of IT Consulting Services
+I lead the IT department at SII Canada, a top Microsoft Partner in Montreal. I am working with Manager team to advise and implement complexe project focused on complex environment especially on collaboration, IAM and Security. I define the commercial and technical strategy for this department.
 
 ## Serge TREMBLAY - MVP Office Server and Services
 
+![Serge TREMBLAY](https://media.licdn.com/dms/image/C4E03AQF-aanEy4knZw/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=qg0Q1nrEfZOVDnJU6FolXtqoeTJSqlwfsiE-s_NfHdw){:height="150px" width="150px"}
+
+Lead of the SharePoint Québec Usergroup (Montréal) MVP SharePoint (2009-2010-2011-2012-2013-2014-2015-2016) Member of the Board of Directors for the SharePoint Summit (Québec City) Member of Organizing comittee of SharePoint Saturday Montréal
+
 ## Franck MERCIER - TSP Microsoft Canada
 
+![Franck MERCIER](https://media.licdn.com/dms/image/C5603AQHoQ4WdFgkZXA/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=HH2Y3F_AJu1c8rnP8v-sKyXsgXIPayeObOjXCMH2hSk){:height="150px" width="150px"}
+
+My aim is to learn new things every days, take up new challenge and have fun in my job ! Spécialités Azure Data Platform Business Intelligence Enterprise Project and Portfolio Management Microsoft Desktop environment (Office and Windows)
+
 ## Nicolas GEORGEAULT - MVP Office Server and Services
+
+![Nicolas GEORGEAULT](https://media.licdn.com/dms/image/C5603AQFvA2ZvCIjeHQ/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=IxQVckEJYMGD4vIlMRW3G1l-GEk5tY12r-s17etji1Q){:height="150px" width="150px"}
+
+SharePoint Server MVP for 6 years, it is now honored to be Office Server and Services MVP for 2 years.
+His vision of the future and his qualities as speakers regularly brings him to share his knowledge in several books and web publications and regularly at several conferences and user groups in Canada but also in Europe and the United States.
 
 # BYOP - Bring Your Own Problem
 
