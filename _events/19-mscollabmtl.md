@@ -1,6 +1,6 @@
 ---
 title: MSCollabMTL 2019
-date: 2019-02-24 21:51:00 Z
+date: 2019-02-24 16:51:00 -05:00
 permalink: "/events/mscollabmtl19.html"
 categories:
 - events
@@ -9,7 +9,7 @@ tags:
 position: 1
 excerpt: 'Une journée complète de sessions techniques gratuites sur #Microsoft365
   et #Office365 délivrée par des Experts et MVP Européens et Locaux.'
-last_modified_at: 2019-02-25 17:00:00 Z
+last_modified_at: 2019-02-25 12:00:00 -05:00
 redirect_from:
 - "/theme-setup/"
 toc: true
@@ -20,7 +20,6 @@ layout: single
 ---
 
 # Introduction
-
 Pour sa 3ième édition, ce rendez-vous est maintenant un classique.
 Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de la visite de quelques uns des meilleurs experts et MVP Européens et Canadiens pour organiser cette journée de sessions techniques.
 > La journée est organisée selon 2 préoccupations majeures: La connaissance technique et la Gestion des environnements #Microsoft365 et #Office365 et particulièrement #MicrosoftTeams.
@@ -47,11 +46,20 @@ Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de 
 <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.ca/tickets-external?eid=56381657054&ref=etckt" frameborder="0" height="330" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 # Partenaires
-
+Une telle journée ne pourrait avoir lieu sans la participation de nos partenaires.
+Si vous souhaitez devenir partenaire, p 
 # Conférenciers
 
-| première case  | deuxième case  |
-|----------------|----------------|
-| troisième case | quatrième case |
+## Michel LAPLANE- MVP Visio
+## Guillaume MEYER- MVP Office 365
+## Etienne BAILLY - MVP Office Server and Services
+## Joris FAURE - MVP Identity and Security
+## Serge TREMBLAY - MVP Office Server and Services
+## Franck MERCIER - TSP Microsoft Canada
+## Nicolas GEORGEAULT - MVP Office Server and Services
 
 # BYOP - Bring Your Own Problem
+Pour la première fois nous vous proposons de participer à ce type de session au cours de laquelle nos conférenciers ne feront pas que répondre à de simples questions mais de vous livrer une réflexion commune à un problème que vous pourriez rencontrer dans le cadre de la mise en place de votre environnement Office 365 et plus largement les solutions collaboratives de Microsoft.
+Nous souhaitons apporter des pistes de solutions concrètes à des problématiques vous rencontrez. Une sorte de consultation gratuite.
+Pour des soucis d'organisation, nous garderons un œil sur l'horloge en limitant un sujet à 30 minutes en fonction de l'étendu de la question.
+Le but étant de vous aider en proposant une approche multiple. Celles de nos conférenciers.
