@@ -17,7 +17,7 @@ main:
 # Event links
 events:
   - title: Introduction
-    url: #Introduction
+    url: /Introduction
   - title: Agenda
     url: #Agenda
   - title: Content
