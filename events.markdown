@@ -1,6 +1,6 @@
 ---
 title: Événements
-date: 2019-03-04 14:20:00 Z
+date: 2019-03-04 09:20:00 -05:00
 permalink: "/events/"
 collection: events
 entries_layout: list
@@ -11,8 +11,3 @@ layout: collection
 ---
 
 Introduction aux événements
-collection: # collection name
-entries_layout: # list (default), grid
-show_excerpts: # true (default), false
-sort_by: # date (default) title
-sort_order: # forward (default), reverse
