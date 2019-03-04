@@ -1,6 +1,6 @@
 ---
 title: GUM365
-timezone: UTC
+timezone: America/New_York
 collections:
   events:
     title: Events
