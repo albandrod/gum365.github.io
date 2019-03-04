@@ -16,6 +16,8 @@ toc: true
 toc_icon: cog
 toc_label: Menu
 classes: wide
+header:
+- overlay_color: "#333"
 layout: single
 ---
 
