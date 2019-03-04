@@ -19,10 +19,13 @@ classes: wide
 header:
 - overlay_color: "#333"
 sidebar:
+- title: "Paternaires"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+- title: "Another Title"
+    text: "More text here."
 - nav: events
-  title: Another Title
-  text: Some text here.
-  image: http://placehold.it/350x250
 layout: single
 ---
 
