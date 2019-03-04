@@ -14,7 +14,7 @@ redirect_from:
 - "/theme-setup/"
 toc: true
 toc_icon: cog
-toc_label: '"Menu" '
+toc_label: Menu
 classes: wide
 layout: single
 ---
