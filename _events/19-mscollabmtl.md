@@ -53,7 +53,8 @@ Si vous souhaitez devenir partenaire, p
 ## Michel LAPLANE- MVP Visio
 image:
 ## Guillaume MEYER- MVP Office 365
-image:
+  image: https://media.licdn.com/dms/image/C5603AQGs2B81IutD9w/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=QRemqpxCKZ82CRVAFbClMrgnwyfSzp6pgSRnYF16IVw
+  caption: "Crédit photo: [**LinkedIn**](https://www.linkedin.com/in/guillaumemeyer/)"
 ## Etienne BAILLY - MVP Office Server and Services
 ## Joris FAURE - MVP Identity and Security
 ## Serge TREMBLAY - MVP Office Server and Services
