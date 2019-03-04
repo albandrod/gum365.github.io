@@ -60,21 +60,7 @@ La journée est organisée selon 2 préoccupations majeures: La connaissance tec
 
 # Lieu
 
-<div>
-\
-     <iframe width="100%" height="400" frameborder="0" src="https://www.bing.com/maps/embed?h=400&w=600&cp=45.51558989547186\~-73.56224594971467&lvl=17&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
-\
-     </iframe>
-\
-     <div style="white-space: nowrap; text-align: center; width: 600px; padding: 6px 0;">
-\
-        <a id="largeMapLink" target="_blank" href="https://www.bing.com/maps?cp=45.51558989547186\~-73.56224594971467&amp;sty=r&amp;lvl=17&amp;FORM=MBEDLD">Afficher une carte plus grande</a> &nbsp; | &nbsp;
-\
-        <a id="dirMapLink" target="_blank" href="https://www.bing.com/maps/directions?cp=45.51558989547186\~-73.56224594971467&amp;sty=r&amp;lvl=17&amp;rtp=\~pos.45.51558989547186_-73.56224594971467____&amp;FORM=MBEDLD">Calculer l’itinéraire</a>
-\
-    </div>
-\
-</div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1770.5529322020568!2d-73.56280033819519!3d45.515406237448225!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91bb33b2f88f9%3A0xc74e1f9c890593ed!2sBAnQ\+Grande\+Biblioth%C3%A8que!5e0!3m2!1sfr!2sca!4v1551705995950" width="700" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Inscription
 
