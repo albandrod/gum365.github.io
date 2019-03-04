@@ -1,7 +1,6 @@
 ---
 title: Événements
 date: 2019-03-04 14:13:00 Z
-permalink: "/events/"
 categories:
 - events
 collection: events
