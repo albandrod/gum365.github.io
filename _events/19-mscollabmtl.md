@@ -12,7 +12,7 @@ excerpt: 'Une journée complète de sessions techniques gratuites sur #Microsoft
 last_modified_at: 2019-02-25 12:00:00 -05:00
 redirect_from:
 - "/theme-setup/"
-toc: true
+toc: false
 toc_icon: cog
 toc_label: Menu
 classes: wide
