@@ -58,19 +58,22 @@ Une telle journée ne pourrait avoir lieu sans la participation de nos partenair
 * Partenaires Platine
 
 ![ytria-logo-300px.png](/uploads/ytria-logo-300px.png){:height="200px" width="200px"}
+
 Ytria, établie à Montréal depuis 1999, est le spécialiste des solutions d’administration pour les professionnels TI.
-Aujourd’hui, nous présentons sapio365, notre solution unique d’administration pour Office 365. 
-sapio365 vous offre une vision globale de votre Tenant inaccessible par le biais du portail d’Administration, et vous affranchit des commandes PowerShell. 
-Avec sapio365, vous effectuez des analyses, des rapports, des modifications de masse en quelques clics. 
-Vous gérez facilement et efficacement les utilisateurs, les groupes et les Teams, les sites SharePoint, les licences et les plans de service. Vous déléguez des privilèges administratifs avec simplicité, et vous suivez l'activité de vos utilisateurs avec précision. 
+Aujourd’hui, nous présentons sapio365, notre solution unique d’administration pour Office 365.
+sapio365 vous offre une vision globale de votre Tenant inaccessible par le biais du portail d’Administration, et vous affranchit des commandes PowerShell.
+Avec sapio365, vous effectuez des analyses, des rapports, des modifications de masse en quelques clics.
+Vous gérez facilement et efficacement les utilisateurs, les groupes et les Teams, les sites SharePoint, les licences et les plans de service. Vous déléguez des privilèges administratifs avec simplicité, et vous suivez l'activité de vos utilisateurs avec précision.
 sapio365 apporte rapidité, exactitude et efficacité et vous permet de maîtriser les coûts d’utilisation d’Office 365.
 
 ![Logo_SIICANADA.png](/uploads/Logo_SIICANADA.png){:height="200px" width="200px"}
+
 SII Canada is a dynamic Engineering and IT consulting firm based in Montreal and Toronto. SII Canada supports its clients and stay ahead of the competition by offering more efficient and reliable solutions in areas such as mechanical design, software development, IT infrastructure and Microsoft expertise assistance, to name a few. From 2 people in 2015 to more than 120 today, Sii Canada is growing fast with internationally renowned customers, and fantastic projects in the making.
 
-* Partenaires Or
+* Partenaire Or
 
 ![Logo-15e-Large-NoBG.gif](/uploads/Logo-15e-Large-NoBG.gif){:height="200px" width="200px"}
+
 Victrix, une des plus importantes entreprises de services TI au Québec, accompagne les entreprises et les organismes du secteur public dans la mise en œuvre de solutions en matière de productivité d’entreprise leur permettant d’accroître leur performance et leur compétitivité.
 
 # Conférenciers
