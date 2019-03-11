@@ -71,7 +71,7 @@ SII Canada is a dynamic Engineering and IT consulting firm based in Montreal and
 * Partenaires Or
 
 ![Logo-15e-Large-NoBG.gif](/uploads/Logo-15e-Large-NoBG.gif){:height="200px" width="200px"}
-
+Victrix, une des plus importantes entreprises de services TI au Québec, accompagne les entreprises et les organismes du secteur public dans la mise en œuvre de solutions en matière de productivité d’entreprise leur permettant d’accroître leur performance et leur compétitivité.
 
 # Conférenciers
 
