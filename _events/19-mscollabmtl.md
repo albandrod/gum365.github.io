@@ -55,7 +55,7 @@ Chaque année avant de MVP Summit qui se déroule à Seattle, nous profitons de 
 
 Une telle journée ne pourrait avoir lieu sans la participation de nos partenaires.
 
-Partenaires Platine
+* Partenaires Platine
 
 ![ytria-logo-300px.png](/uploads/ytria-logo-300px.png){:height="200px" width="200px"}
 Ytria, établie à Montréal depuis 1999, est le spécialiste des solutions d’administration pour les professionnels TI.
@@ -67,6 +67,11 @@ sapio365 apporte rapidité, exactitude et efficacité et vous permet de maîtris
 
 ![Logo_SIICANADA.png](/uploads/Logo_SIICANADA.png){:height="200px" width="200px"}
 SII Canada is a dynamic Engineering and IT consulting firm based in Montreal and Toronto. SII Canada supports its clients and stay ahead of the competition by offering more efficient and reliable solutions in areas such as mechanical design, software development, IT infrastructure and Microsoft expertise assistance, to name a few. From 2 people in 2015 to more than 120 today, Sii Canada is growing fast with internationally renowned customers, and fantastic projects in the making.
+
+* Partenaires Or
+
+![Logo-15e-Large-NoBG.gif](/uploads/Logo-15e-Large-NoBG.gif){:height="200px" width="200px"}
+
 
 # Conférenciers
 
